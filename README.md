@@ -1,2 +1,2 @@
 # spell
-Here's the translation spelling bee hosted on my github profile!
+Here's the FLSB translation spelling bee hosted on my GitHub profile!
